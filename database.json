@@ -1,0 +1,239 @@
+[{
+  "JailbreakStatus" : {
+    "176" : {
+      "firm" : "Firmware 1.76",
+      "status" : "Fully exploited in public"
+    },
+    "355" : {
+      "firm" : "Firmware 3.55",
+      "status" : "Public webKit exploit"
+    },
+    "405" : {
+      "firm" : "Firmware 4.05",
+      "status" : "Fully exploited in public"
+    },
+    "455" : {
+      "firm" : "Firmware 4.55",
+      "status" : "Fully exploited in public"
+    },
+    "505" : {
+      "firm" : "Firmware 5.05",
+      "status" : "Fully exploited in public"
+    },
+    "507" : {
+      "firm" : "Firmware 5.07",
+      "status" : "Fully exploited in public"
+    },
+    "550" : {
+      "firm" : "Firmware 5.50",
+      "status" : "Fully exploited in private"
+    },
+    "555" : {
+      "firm" : "Firmware 5.55",
+      "status" : "Fully exploited in private"
+    }
+  },
+  "Store" : {
+    "001" : {
+      "description" : "All in one app for your PS4. Payload Sender and a brand new Store for your PS4! Download Payloads, Homebrew, Applications for your phone and more! Everything straight from your phone!\n\nWhat's new?\n- Initial release!",
+      "dev" : "robglez",
+      "download" : "https://psarchive.darksoftware.xyz/ORBISMAN_BETA.pkg",
+      "search" : "ps tools 1.0",
+      "title" : "PS Tools 1.0",
+      "type" : "Application"
+    },
+    "002" : {
+      "description" : "Send payloads to your PS4 straight from your phone!\n\nWhat's new?\n- New UI\n- Recoded\n- New Setup Wizard\n- Optional Product sans font\n- Settings are now automatically applied\nFull changelog in Settings > Changelog",
+      "dev" : "robglez",
+      "download" : "https://androidfilehost.com/?fid=11410963190603854200",
+      "search" : "ps4 payload sender 4.0",
+      "title" : "PS4 Payload Sender 4.0",
+      "type" : "Application"
+    },
+    "003" : {
+      "description" : "Use your favorite FTP client to remotely edit files of your 5.05 PS4\n\nHow to use :\nWhen you send the FTP payload you will receive a notification on your PS4 with the IP address and Port (Usually 1337) for your FTP client\n\n**NOTICE**\nFor 5.05 ONLY, it is download as a .zip file. You need to extract the ps4-ftp-vtx.bin file (located in the /payload folder of the zip file) to send it as a payload!",
+      "dev" : "xvortex",
+      "download" : "https://github.com/xvortex/ps4-ftp-vtx/releases/download/1.3/ps4-ftp-vtx.zip",
+      "search" : "ftp for 5.05",
+      "title" : "FTP for 5.05",
+      "type" : "Payload"
+    },
+    "004" : {
+      "description" : "Use your favorite FTP client to remotely edit files of your 4.55 PS4\n\nHow to use :\nWhen you send the FTP payload you will receive a notification on your PS4 with the IP address and Port (Usually 1337) for your FTP client",
+      "dev" : "xvortex",
+      "download" : "https://github.com/xvortex/ps4-ftp-vtx/releases/download/1.2/ps4-ftp-vtx.bin",
+      "search" : "ftp for 4.55",
+      "title" : "FTP for 4.55",
+      "type" : "Payload"
+    },
+    "005" : {
+      "description" : "Use your favorite FTP client to remotely edit files of your 4.05 PS4\n\nHow to use :\nWhen you send the FTP payload you will receive a notification on your PS4 with the IP address and Port (Usually 1337) for your FTP client",
+      "dev" : "xvortex",
+      "download" : "https://github.com/xvortex/ps4-ftp-vtx/releases/download/1.1/ps4-ftp-vtx.bin",
+      "search" : "ftp for 4.05",
+      "title" : "FTP for 4.05",
+      "type" : "Payload"
+    },
+    "006" : {
+      "description" : "This payload unlocks the PS4 internet browser on firmware 4.74",
+      "dev" : "CelesteBlue123",
+      "download" : "https://cdn.discordapp.com/attachments/514047865170165762/515663354237288468/browser.bin",
+      "search" : "unlock web browser for 4.74",
+      "title" : "Unlock web browser for 4.74",
+      "type" : "Payload"
+    },
+    "007" : {
+      "description" : "Use your favorite FTP client to remotely edit files of your 4.74 PS4\n\nHow to use :\nWhen you send the FTP payload you will receive a notification on your PS4 with the IP address and Port (Usually 1337) for your FTP client",
+      "dev" : "xvortex & notzecoxao",
+      "download" : "https://cdn.discordapp.com/attachments/514047865170165762/515645546367680543/ps4-ftp-vtx.bin",
+      "search" : "ftp for 4.74",
+      "title" : "FTP for 4.74",
+      "type" : "Payload"
+    },
+    "008" : {
+      "description" : "Lotus Menu is a native-based modmenu for PlayStation 4, run on the 2much4u menu base. It features various unique options such as meteor rain, clear water, vehicle preview and more. Most DLC content is supported.\n\nThe menu is designed to be a easy to use, Rockstar-like menu. It can be switched to both the left and right side of the screen.\n\nFor GTA V version 1.27",
+      "dev" : "0x199 & 2much4ux",
+      "download" : "https://sce.party/assets/images/etc/lotusmenu/latest.bin",
+      "search" : "gta v lotus mod menu",
+      "title" : "GTA V Lotus mod menu",
+      "type" : "Payload"
+    },
+    "009" : {
+      "description" : "Supports Firmware 4.55 & 5.05\n\nFeatures\n- File Manager\n- Syscall 9 (sys_unjail)\n- JKPatch RPC Server\n- Autoload settings\n- Remote PKG installer server\n- USB ELF Loader\n- Remote Play Patches (no IDU yay)\n- New Icons with White text\n- for a full List of new features look at the changelog tab",
+      "dev" : "i8br, ZeraTron_, LightningMods_",
+      "download" : "https://psarchive.darksoftware.xyz/ORBISMAN_BETA.pkg",
+      "search" : "orbisman beta 2",
+      "title" : "orbisMAN BETA 2",
+      "type" : "Homebrew"
+    },
+    "-LTtwLw9P6krg6G8SZH4" : {
+      "description" : "PS Tools all in one application for your Android device! Download Payloads, Homebrew's and applications for your phone straight from the PST Store! Don't miss out on new releases! Read it on a forum and then search it up on the PST Store to download it!\n\n- Initial release!",
+      "dev" : "robglez",
+      "download" : "http://robglez.github.io",
+      "search" : "ps tools 1.0",
+      "title" : "PS Tools 1.0",
+      "type" : "Application"
+    },
+    "-LTwFSEZUCsFAHLumTus" : {
+      "description" : "Click download to subscribe to PewDiePie! Also unsubscribe to T-Series.\n\nPewDiePie is in trouble and he needs your help to defeat T-Series!\n\nWhat is going on?\nPewDiePie the currently most subscribed YouTube channel, is a the stake of loosing his position as the number one channel by an Indian company T-Series who uploads Bollywood trailers and songs.\n\nWhat to do?\nPress the download button to subscribe to PewDiePie",
+      "dev" : "robglez",
+      "download" : "https://www.youtube.com/subscription_center?add_user=pewdiepie",
+      "search" : "subscribe to pewdiepie",
+      "title" : "Subscribe to PewDiePie",
+      "type" : "Payload"
+    },
+    "-LUAndB1c0-JwKPAiI4z" : {
+      "description" : "This is for GTA V 1.00 on firmware 4.55 Open the mod menu with L1 + R1",
+      "dev" : "RF0oDxM0Dz",
+      "download" : "http://download1662.mediafire.com/qzv1a9s02ahg/jgad8vhcvt4da4b/ArabicGuy455V1.bin",
+      "search" : "gta v arabicguy 1.0 for 4.55",
+      "title" : "GTA V ArabicGuy 1.0 for 4.55",
+      "type" : "Payload"
+    },
+    "-LUAoMZ-J3_4ywvDg2D0" : {
+      "description" : "ArabicGuy updated for 5.05 firmware. Works on GTA V 1.00 Press L1+R1 to open mod menu\n\n**EXTRACT BEFORE USE**\nThis is downloaded as a zip. You will need to unzip it before using it!",
+      "dev" : "RF0oDxM0Dz",
+      "download" : "http://download1833.mediafire.com/22bxhr7i4ktg/kk8pkzo4b5uagw2/ArabicGuy%285.05%29.zip",
+      "search" : "gta v arabicguy 1.1 for 5.05",
+      "title" : "GTA V ArabicGuy 1.1 for 5.05",
+      "type" : "Payload"
+    },
+    "-LUIg3sccad5vtA0auME" : {
+      "description" : "This is the description of this payload. Use it with the Payload Sender of PS Tools.\n\nWhat's new?\n- This is new\n- This is also new",
+      "dev" : "robglez",
+      "download" : "http://robglez.github.io",
+      "search" : "payload 1.0 for 5.05",
+      "title" : "Payload 1.0 for 5.05",
+      "type" : "Payload"
+    }
+  },
+  "TrustedDevs" : {
+    "-LUNnZs2avedi67ZL1do" : {
+      "dev" : "qwertyoruiop"
+    },
+    "-LUNnl5iyb5HrnJFWTZ1" : {
+      "dev" : "CTurt"
+    },
+    "-LUNoBFCF2gFRFDQX602" : {
+      "dev" : "3226:2143"
+    },
+    "-LUNpErBSV3rrxZ9rcey" : {
+      "dev" : "2much4u"
+    },
+    "-LUQnCoD5EKbMS5ifjLC" : {
+      "dev" : "zecoxao"
+    },
+    "-LUQnG0Imlu1lkgiee66" : {
+      "dev" : "bigboss"
+    },
+    "-LUQnKhTXk9EbifA236U" : {
+      "dev" : "RedEyeX32"
+    },
+    "-LUQnQxNgbnJipXS6dqa" : {
+      "dev" : "Apache"
+    },
+    "-LUQnUQ5C5RqXlON6eXs" : {
+      "dev" : "AlexAltea"
+    },
+    "-LUQnXVHii5KINBq0lv7" : {
+      "dev" : "SKFU"
+    },
+    "-LUQn_GyjZCOISn2gCdn" : {
+      "dev" : "xerpi"
+    },
+    "-LUQnbLcDIYb_YAre2FP" : {
+      "dev" : "Nas"
+    },
+    "-LUQneyN34RVIfXHSNPT" : {
+      "dev" : "flatz"
+    },
+    "-LUQnknv9nkFc7qKUytZ" : {
+      "dev" : "m0rph3us1987"
+    },
+    "-LUQnoEiaMF2dsiPZ0cA" : {
+      "dev" : "droogie"
+    },
+    "-LUQnsvTcCZ2En9UpkmN" : {
+      "dev" : "Specter"
+    },
+    "-LUQo19axYT-muZ4QwdK" : {
+      "dev" : "Mathieulh"
+    },
+    "-LUQoES9BtlrYxMui1pW" : {
+      "dev" : "theorywrong"
+    },
+    "-LUQoQzSn1ZBxoe4IZAp" : {
+      "dev" : "fail0verflow"
+    },
+    "-LUQoUwAM5FG4wfZgV5U" : {
+      "dev" : "j0lama"
+    },
+    "-LUQo_0fVIW5RzIMUDuP" : {
+      "dev" : "ZeraTron"
+    },
+    "-LUQoj-yWdDswOkmumU4" : {
+      "dev" : "Hunger"
+    },
+    "-LUQoxDeHl8D7KWVF0LT" : {
+      "dev" : "Takezo"
+    },
+    "-LUQp2Pj2c0HQD8ZyCCL" : {
+      "dev" : "Proxima"
+    },
+    "-LUQp6dHagGb0OtlX50e" : {
+      "dev" : "Al Azif"
+    },
+    "-LUQpA-SJ7MqMB3uZh7c" : {
+      "dev" : "wildcard"
+    },
+    "-LUQpHYzCzRoBmhbBZfS" : {
+      "dev" : "CelesteBlue"
+    },
+    "-LUQz-UI-ZjixQPN7zm-" : {
+      "dev" : "robglez"
+    },
+    "-LUT2zi-7PBrdWmbVh_B" : {
+      "dev" : "valentinbreiz"
+    }
+  }
+}]
